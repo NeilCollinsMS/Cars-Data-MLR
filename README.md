@@ -9,7 +9,7 @@ Jamie Liu (Regression Analysis & Final Code Compilation)
 
 Sam Al-Qarzi (Data Cleaning) 
 
-Aileen Garcia (Regression Analysis) 
+Aileen Garcia (Process Review) 
 
 CU Leeds MSBA Class of 2021
 
