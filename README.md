@@ -11,8 +11,6 @@ Sam Al-Qarzi (Data Cleaning)
 
 Aileen Garcia (Process Review) 
 
-CU Leeds MSBA Class of 2021
-
 Data courtesy: https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
 Packages: tidyverse/dyplr, MASS, car, ggplot2, caret
